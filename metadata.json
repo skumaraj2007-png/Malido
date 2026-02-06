@@ -1,0 +1,7 @@
+{
+  "name": "Malido Cafe & Apéro - Heritage Dining Experience",
+  "description": "An aesthetic, 40-seater cafe in South Mumbai's art district, founded by the Bose family. Experience the legacy of Malido.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
